@@ -18,6 +18,11 @@ As the data analyst on the project, my role was to analyze content performance t
 * What content types or themes could be prioritized to increase platform engagement?
 
 ## Clean and Process Data 
+
+Pre Cleaned Data
+
+<img width="1083" height="740" alt="Data Pre-Cleaning" src="https://github.com/user-attachments/assets/b537c8c9-22a3-4940-b788-02b94e51d33d" />
+
 * Cleaned an Excel dataset containing 25,000+ records from 2020 and 2021.
 * Removed rows with missing or incomplete fields to maintain data integrity.
 * Used VLOOKUP to merge data across multiple tables (reaction types, popular categories, and content) by linking shared attributes such as content ID and category.
@@ -33,7 +38,7 @@ Analysis: The highest number of reactions occurred in May, while the lowest was 
 
 Analysis: Throughout the day, the total number of reactions shows a slight decline from 12 AM to 11 PM. The highest engagement occurs in the early morning hours between 4 AM and 9 AM, while the lowest is observed between 10 AM and 2 PM. Despite these fluctuations, overall reaction levels remain relatively consistent throughout the day.
 
-<img width="1876" height="869" alt="Content Type Reaction" src="https://github.com/user-attachments/assets/3ffab08e-3736-46a5-bf6d-f1d6fce3ad7e" />
+<img width="637" height="851" alt="Sentiment by Day of Week" src="https://github.com/user-attachments/assets/00971bd9-41d9-46ca-bcc9-3753c4f376ed" />
 
 Analysis: When analyzing sentiment across the week, positive reactions are the most frequent, while neutral reactions are the least. For both positive and neutral sentiments, there is a general trend of decreasing engagement at the start of the week, followed by an increase toward the weekend, with a noticeable spike in positive reactions during the weekend. In contrast, negative reactions remain high from Monday to Thursday, then decline and slightly rise again on Friday and over the weekend.
 
