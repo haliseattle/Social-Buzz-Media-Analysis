@@ -19,10 +19,6 @@ As the data analyst on the project, my role was to analyze content performance t
 
 ## Clean and Process Data 
 
-Pre Cleaned Data
-
-<img width="1083" height="740" alt="Data Pre-Cleaning" src="https://github.com/user-attachments/assets/b537c8c9-22a3-4940-b788-02b94e51d33d" />
-
 * Cleaned an Excel dataset containing 25,000+ records from 2020 and 2021.
 * Removed rows with missing or incomplete fields to maintain data integrity.
 * Used VLOOKUP to merge data across multiple tables (reaction types, popular categories, and content) by linking shared attributes such as content ID and category.
