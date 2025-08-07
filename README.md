@@ -25,17 +25,23 @@ As the data analyst on the project, my role was to analyze content performance t
 
 ## Observations 
 
+<img width="787" height="599" alt="Reaction by Month" src="https://github.com/user-attachments/assets/870d9fc2-fe55-42e5-a5ed-9f0ce1feb677" />
+
 Analysis: The highest number of reactions occurred in May, while the lowest was observed in February. There is a general upward trend over time, indicating increasing engagement. However, aside from this growth, the number of reactions remains relatively stable across most months.
 
-
+<img width="1027" height="599" alt="Reaction By Hour" src="https://github.com/user-attachments/assets/e7568657-2146-490c-813c-bae6d8f6aed2" />
 
 Analysis: Throughout the day, the total number of reactions shows a slight decline from 12 AM to 11 PM. The highest engagement occurs in the early morning hours between 4 AM and 9 AM, while the lowest is observed between 10 AM and 2 PM. Despite these fluctuations, overall reaction levels remain relatively consistent throughout the day.
 
+<img width="1876" height="869" alt="Content Type Reaction" src="https://github.com/user-attachments/assets/3ffab08e-3736-46a5-bf6d-f1d6fce3ad7e" />
+
 Analysis: When analyzing sentiment across the week, positive reactions are the most frequent, while neutral reactions are the least. For both positive and neutral sentiments, there is a general trend of decreasing engagement at the start of the week, followed by an increase toward the weekend, with a noticeable spike in positive reactions during the weekend. In contrast, negative reactions remain high from Monday to Thursday, then decline and slightly rise again on Friday and over the weekend.
 
+<img width="1455" height="850" alt="Percentage Total Accross Categories" src="https://github.com/user-attachments/assets/8899f153-3f12-4b4d-8c5a-2a9ad3b8fb44" />
 
 Analysis: Based on the percentage of total reactions across categories, the top five are Animals, Science, Healthy Eating, Food, and Technology which account for about  36% of all reactions, indicating a strong concentration of engagement in these areas. In contrast, categories like Studying, Dogs, Tennis, Veganism, and Public Speaking rank lowest in terms of reaction share which suggests relatively lower audience interest or visibility.
 
+<img width="1876" height="869" alt="Content Type Reaction" src="https://github.com/user-attachments/assets/5ab74e50-2a3a-4e14-9340-09a9c2b0c24f" />
 
 Analysis: When examining reactions by content format, photos (26.8%) and videos (25.4%) receive the highest levels of engagement, followed by GIFs and then audio, which has the fewest reactions. This suggests that users are more responsive to visual content, particularly photos and videos. However, the differences in reaction levels across formats are relatively minor.
 
